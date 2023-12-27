@@ -51,7 +51,7 @@ importers:
         specifier: ^5.3.2
         version: 5.3.2(@popperjs/core@2.11.8)
       bootstrap-vue-next:
-        specifier: workspace:^
+        specifier: file:*
         version: link:../../packages/bootstrap-vue-next
       cross-env:
         specifier: ^7.0.3
@@ -84,7 +84,7 @@ importers:
   apps/playground:
     dependencies:
       bootstrap-vue-next:
-        specifier: workspace:^
+        specifier: file:*
         version: link:../../packages/bootstrap-vue-next
       vue:
         specifier: ^3.3.13
@@ -237,7 +237,7 @@ importers:
         specifier: ^8.0.0
         version: 8.0.0(eslint@8.56.0)(prettier@3.1.1)
       bootstrap-vue-next:
-        specifier: workspace:^
+        specifier: file:*
         version: link:../bootstrap-vue-next
       eslint:
         specifier: ^8.56.0
