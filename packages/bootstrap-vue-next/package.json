@@ -79,7 +79,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bootstrap-vue-next/bootstrap-vue-next.git",
+    "url": "git+https://github.com/aivy3/bootstrap-vue-next.git",
     "directory": "packages/bootstrap-vue-next"
   },
   "bugs": {
